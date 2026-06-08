@@ -15,8 +15,8 @@ Role of reports: Determine effective sales performance, identify top Products, a
 •	Customer Churn Report:
 
 Project objective:
-1. I developed a Customer Churn Dashboard in Power BI to analyze customer retention and identify factors contributing to customer churn.()
-2. The objective was to help management understand why customers leave and take proactive measures to improve retention.()
+1. I developed a Customer Churn Dashboard in Power BI to analyze customer retention and identify factors contributing to customer churn.(https://github.com/yogeshjha3404-netizen/Customer-churn-Dashboard-PDF.git)
+2. The objective was to help management understand why customers leave and take proactive measures to improve retention.(https://github.com/yogeshjha3404-netizen/Customer-churn-Dashboard-PDF.git)
 3. Purpose of Churn Report: The purpose of this project is to analyze customer churn behavior and identify the key factors that influence customers to leave the company.
 4. Role of report: to provide a clear view of customer retention and churn trends. It helps management identify which customer segments are at higher risk of leaving, understand the factors contributing to churn, and make informed decisions to improve customer retention, customer satisfaction, and business revenue.
 
